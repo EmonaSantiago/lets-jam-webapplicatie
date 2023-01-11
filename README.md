@@ -3,7 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+<!-- Geef je project een titel en schrijf in één zin wat het is --> https://www.figma.com/file/M0NZWNVXwrW0xHRFb6HFb0/Untitled?node-id=0%3A1&t=rwyzFNnvuECNsPkn-0
 
 ## Inhoudsopgave
 
