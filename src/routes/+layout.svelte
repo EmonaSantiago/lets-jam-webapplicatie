@@ -1,9 +1,7 @@
 <script>
-    import "./+page.svelte"
-    import "../styles/globalstyles.css"
-    import header from "src/components/header.svelte";
-    import 
+  import "./+page.svelte";
+  import "../styles/globalstyles.css";
+  import Header from "src/components/header.svelte";
 </script>
 
-    <header>
- 
+<Header />
