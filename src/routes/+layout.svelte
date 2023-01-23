@@ -1,13 +1,13 @@
 <script>
   import { assets } from "$app/paths";
   import "/Users/emonasantiago/Documents/choices-choices-the-tech-stack/lets-jam-webapplicatie/src/styles/globalstyles.css";
-  import Header from "../components/header.svelte";
-  import HeroSection from "../components/hero-section.svelte";
-  import Navigation from "../components/navigation.svelte";
-  import Sessions from "../components/sessions.svelte";
-  import SignUp from "../components/sign-up.svelte";
-  import Upcoming from "../components/upcoming.svelte";
-  import Footer from "../components/footer.svelte";
+  import Header from "../lib/components/header.svelte";
+  import HeroSection from "../lib/components/hero-section.svelte";
+  import Navigation from "../lib/components/navigation.svelte";
+  import Sessions from "../lib/components/sessions.svelte";
+  import SignUp from "../lib/components/sign-up.svelte";
+  import Upcoming from "../lib/components/upcoming.svelte";
+  import Footer from "../lib/components/footer.svelte";
 </script>
 
 {assets}
