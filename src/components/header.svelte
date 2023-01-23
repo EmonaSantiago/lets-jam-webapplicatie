@@ -1,5 +1,11 @@
-<header>
-  <h1>Welcome to SvelteKit</h1>
-  <p>We love web blog</p>
-  <p>FDND STYLEGUIDE</p>
-</header>
+<script>
+  import { assets } from "$app/paths";
+</script>
+
+<section id="header" />
+
+<style>
+  #header {
+    border: #a675f5 solid 2px;
+  }
+</style>
