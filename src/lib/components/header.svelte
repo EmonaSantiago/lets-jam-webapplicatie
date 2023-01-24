@@ -7,7 +7,7 @@
 
   <section id="button-nav">
     <button class="button-aanmelden">Aanmelden</button>
-    <button class= >FDND.nl</button>
+    <button class="button-fdnd">FDND.nl</button>
   </section>
 </section>
 
@@ -15,13 +15,12 @@
   * {
     padding: 1em;
   }
-
   #header {
     border: #a675f5 solid 2px;
   }
 
   img {
-    width: 30em;
+    width: 25em;
   }
 
   #button-nav {
@@ -30,7 +29,20 @@
 
   button {
     color: #a675f5;
-    background-color: aqua;
+    padding: 20px;
+    margin-top: 1em;
+  }
+
+  .button-aanmelden {
+    border: solid #a675f5 2px;
+    border-radius: 3em;
+    background-color: #050542;
+  }
+
+  .button-fdnd {
+    border-radius: 3em;
+    background-color: #66e5bf;
+    color: #050542;
   }
 
   @media only screen and (max-width: 800px) {

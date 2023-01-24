@@ -1,10 +1,14 @@
-:root {
+
+
+  :root {
     --dark-blue: #050542;
     --purple: #A675F5;
+    --turquoise: #66E5BF;
   }
   
-body {
+  body {
     color: white;
     background-color: var(--dark-blue);
-}
+  }
+
 
