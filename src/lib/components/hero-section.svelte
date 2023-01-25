@@ -2,11 +2,11 @@
   <img src="src/assets/images/headimage.png" alt="we love web pic" />
   <h1>WE ❤ WEB</h1>
   <h2>Welkom bij FDND WE LOVE WEB!</h2>
-  <h2>Kom een sessie volgen</h2>
-  <h3>
+  <h3>Kom een sessie volgen</h3>
+  <h4>
     waarin een designer/developer uit de praktijk iets komt vertellen en laten
     zien!
-  </h3>
+  </h4>
 </section>
 
 <style>
@@ -28,6 +28,27 @@
     position: absolute;
     top: 10%;
     left: 10%;
+    transform: translate(-50%, -50%);
+  }
+
+  h2 {
+    position: absolute;
+    top: 20%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+  }
+
+  h3 {
+    position: absolute;
+    top: 25%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+  }
+
+  h4 {
+    position: absolute;
+    top: 30%;
+    left: 25%;
     transform: translate(-50%, -50%);
   }
 </style>
