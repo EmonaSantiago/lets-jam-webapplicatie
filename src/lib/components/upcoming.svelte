@@ -5,25 +5,35 @@
       <h1>Upcoming We Love Web Sessies</h1>
       <div class="slides">
         <div id="slide-1">
-          <img src="./assets/IMG_7911.jpg" width="300em" />
+          <!-- svelte-ignore a11y-missing-attribute -->
+          <img
+            src="src/assets/images/Schermafbeelding 2023-01-26 om 22.45.56.png"
+            width="300em"
+          />
         </div>
         <div id="slide-2">
-          <img src="./assets/IMG_7912.jpg" width="300em" />
+          <img
+            src="src/assets/images/Schermafbeelding 2023-01-26 om 22.45.56.png"
+            width="300em"
+          />
         </div>
         <div id="slide-3">
-          <img src="./assets/IMG_7913.jpg" width="300em" />
+          <img
+            src="src/assets/images/Schermafbeelding 2023-01-26 om 22.45.56.png"
+            width="300em"
+          />
         </div>
         <div id="slide-4">
-          <img src="./assets/IMG_7914.jpg" width="300em" />
+          <img
+            src="src/assets/images/Schermafbeelding 2023-01-26 om 22.45.56.png"
+            width="300em"
+          />
         </div>
         <div id="slide-5">
-          <img src="./assets/IMG_7912.jpg" width="300em" />
-        </div>
-        <div id="slide-6">
-          <img src="./assets/IMG_7912.jpg" width="300em" />
-        </div>
-        <div id="slide-7">
-          <img src="./assets/IMG_7912.jpg" width="300em" />
+          <img
+            src="src/assets/images/Schermafbeelding 2023-01-26 om 22.45.56.png"
+            width="300em"
+          />
         </div>
       </div>
     </div>
@@ -31,16 +41,17 @@
 </section>
 
 <style>
+  /* upcoming  */
+
   #upcomings {
-    border: solid #66e5bf 2px;
-    border-radius: 2em;
-    /* margin: 2em; */
-    padding: 3em;
+    border: #66e5bf solid 2px;
+    margin: 2em;
   }
+
   .slider h1 {
     font-size: 3em;
-    /* padding-bottom: 3em;
-    padding-top: 2em; */
+    padding-bottom: 3em;
+    padding-top: 2em;
   }
 
   .upcoming {
@@ -48,7 +59,7 @@
     padding-bottom: 6em;
   }
 
-  /* .slider {
+  .slider {
     border-top: #a675f5;
     border-top-style: solid;
     padding-right: 0;
@@ -56,7 +67,7 @@
     text-align: center;
     overflow: hidden;
     padding-top: 6em;
-  } */
+  }
 
   /* image slider */
 
@@ -109,8 +120,8 @@
   .slides > div {
     scroll-snap-align: start;
     flex-shrink: 0;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     margin-right: 120px;
     border-radius: 10px;
     background: #f1adee;

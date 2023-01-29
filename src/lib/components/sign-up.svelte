@@ -48,6 +48,7 @@
 
 <style>
   #main-sessions {
+    margin: 2em;
     margin-top: 2em;
     border: 2px solid #a675f5;
     padding: 2em;

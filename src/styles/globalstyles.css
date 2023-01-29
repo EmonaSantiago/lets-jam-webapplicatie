@@ -1,4 +1,8 @@
-
+  * {
+    scroll-behavior: smooth;
+    border-radius: 2em;
+    text-decoration: none;
+  }
 
   :root {
     --dark-blue: #050542;
