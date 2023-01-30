@@ -1,5 +1,6 @@
 <script>
   import { assets } from "$app/paths";
+  import "./+page.svelte";
   import "/Users/emonasantiago/Documents/choices-choices-the-tech-stack/lets-jam-webapplicatie/src/styles/globalstyles.css";
   import Header from "../lib/components/header.svelte";
   import HeroSection from "../lib/components/hero-section.svelte";
